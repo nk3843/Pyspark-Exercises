@@ -1,5 +1,0 @@
-Virtual Environments:
-
-pyspark_env: /Users/nikhilkumar/pyspark_env
-ml_env: /Users/nikhilkumar/ml_envs/ml_env
-my_project_env: /Users/nikhilkumar/projects/my_project/env

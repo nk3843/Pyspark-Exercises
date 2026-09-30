@@ -1,0 +1,12 @@
+# Editor and notebook files
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+
+# Local environments and Spark output
+.venv/
+venv/
+spark-warehouse/
+metastore_db/
+derby.log
